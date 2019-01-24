@@ -5,4 +5,13 @@ me understand why they are done as opposed to other options. In other words I ho
 picture in creating web apps. I also feel by learning this process I will be better able to understand and communicate better
 with people with a strong computer science background.
 
+
+Some notes on our project:
+
+Jeff scheduled a meeting with Dr. Franke to get his input of what geoprocessing calculations he wanted, but due to an 
+emergancy, Dr. Franke canceled last minute. We are currently leaning on greating a density map that will recalculate each 
+time new data is added. 
+
+
+
 Hart Henrichsen 
